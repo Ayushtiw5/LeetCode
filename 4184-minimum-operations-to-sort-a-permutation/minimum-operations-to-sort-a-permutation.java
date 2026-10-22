@@ -30,7 +30,7 @@ class Solution {
                 }
             }
         }else{
-            // DisValid = false;
+            DisValid = false;
         }
         if(!IisValid && !DisValid)return -1;
         if(IisValid){
